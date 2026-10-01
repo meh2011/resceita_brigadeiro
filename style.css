@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.topo {
+  font-family: "Dancing Script", system-ui;
+  color: rgb(255, 255, 255);
+  font-size: 85px;
+  text-shadow: 10px 10px 10px #c20cfa;
+
+}
+
+body {
+  background-color: #bb29ff;
+  background: linear-gradient(90deg,
+      #000000 45%,
+      #320138 65%,
+      #56025e 100%);
+}
+
+li {
+  color: rgb(254, 253, 255);
+  font-size: 25px;
+  padding: 6px;
+  font-family: "Dancing Script", system-ui;
+  text-align: left;
+}
+
+.title {
+  font-family: "Dancing Script", system-ui;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+  text-shadow: 5px 5px 5px #c300ff;
+  text-align: left;
+  margin-left: 25px;
+}
+
+.t {
+  font-family: "Dancing Script", system-ui;
+  color: rgb(254, 253, 255);
+  font-size: 25px;
+  padding: 6px;
+
+
+}
+
+.a {
+  font-family: "Dancing Script", system-ui;
+  color: rgb(255, 255, 255);
+  padding: 7px;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 25px;
+}
